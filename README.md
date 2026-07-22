@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on IzziStay & Birohmatika.com<br><br>🌱 I’m currently learning Microsoft Fabric<br><br>👯 I’m looking to collaborate on SaaS projects<br><br>👨‍💻 All of my projects are available at [https://jades-michizaru.vercel.app/](https://jades-michizaru.vercel.app/)<br><br>💬 Ask me about PHP, Java and Python<br><br>📫 How to reach me jades1355@gmail.com<br><br>📄 Know about my experiences [https://jades-michizaru.vercel.app/](https://jades-michizaru.vercel.app/)<br><br>⚡ Fun fact I think I have a Girlfriend
+🔭 I’m currently working on IzziStay & Birohmatika.com<br><br>🌱 I’m currently learning Microsoft Fabric<br><br>👯 I’m looking to collaborate on SaaS projects<br><br>👨‍💻 All of my projects are available at [https://jades-michizaru.vercel.app/](https://jades-michizaru.vercel.app/)<br><br>💬 Ask me about PHP, Java and Python<br><br>📫 How to reach me jades1355@gmail.com<br><br>📄 Know about my experiences [https://jades-michizaru.vercel.app/](https://jades-michizaru.vercel.app/)<br>
 
 
 ## 🌐 Socials:
